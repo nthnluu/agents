@@ -1,0 +1,2 @@
+google-adk==1.2.0
+Deprecated==1.2.18
